@@ -18,7 +18,7 @@ Ferramentas de Desenvolvimento
 
 ### 📊 Estatísticas do GitHub
 
-<p> <img alt="GitHub Stats" height="180px" src="https://github-readme-stats.vercel.app/api?username=DeyivdManhaes&show_icons=true&theme=tokyonight&include_all_commits=true&locale=en" /> <img alt="GitHub Top Languages" height="180px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DeyvidManhaes&theme=tokyonight&layout=compact&custom_title=Linguagens&langs_count=8" /> </p>
+<p> <img alt="GitHub Stats" height="180px" src="https://github-readme-stats.vercel.app/api?username=DeyvidManhaes&show_icons=true&theme=tokyonight&include_all_commits=true&locale=en" /> <img alt="GitHub Top Languages" height="180px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DeyvidManhaes&theme=tokyonight&layout=compact&custom_title=Linguagens&langs_count=8" /> </p>
 
 ### 📬 Entre em Contato
 <p>E-mail: deyvidmanhaes2@gmail</p>
