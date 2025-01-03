@@ -4,7 +4,7 @@
 
 Olá! Sou Deyvid Souza, graduado em Sistemas de Informação pela FeMASS, onde desenvolvi uma base sólida em tecnologias como Java, Spring Boot, React, PostgreSQL, Git, OAuth, Maven, Hibernate, JavaScript, Node.js, TypeScript, HTML, CSS e Bootstrap. Embora minha experiência prática no desenvolvimento de software esteja em fase inicial, tenho dedicado tempo significativo ao aprendizado e à aplicação prática dessas tecnologias em projetos pessoais, com ênfase em desenvolvimento web e soluções escaláveis.
 
-<p align="left"> <a href="https://github.com/DeyvidManhaes"> <img alt="GitHub Followers" title="Me siga no GitHub" src="https://custom-icon-badges.demolab.com/github/followers/jocimargalante?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=github&label=Seguidores&logoColor=white" /> </a> <a href="https://github.com/jocimargalante?tab=repositories&sort=stargazers"> <img alt="GitHub Stars" title="Estrelas nos Repositórios" src="https://custom-icon-badges.demolab.com/github/stars/jocimargalante?color=55960c&style=for-the-badge&labelColor=488207&logo=star&label=Estrelas" /> </a> </p>
+<p align="left"> <a href="https://github.com/DeyvidManhaes"> <img alt="GitHub Followers" title="Me siga no GitHub" src="https://custom-icon-badges.demolab.com/github/followers/DeyvidManhaes?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=github&label=Seguidores&logoColor=white" /> </a> <a href="https://github.com/DeyvidManhaes?tab=repositories&sort=stargazers"> <img alt="GitHub Stars" title="Estrelas nos Repositórios" src="https://custom-icon-badges.demolab.com/github/stars/DeyvidManhaes?color=55960c&style=for-the-badge&labelColor=488207&logo=star&label=Estrelas" /> </a> </p>
 
 ---
 
@@ -18,7 +18,7 @@ Ferramentas de Desenvolvimento
 
 ### 📊 Estatísticas do GitHub
 
-<p> <img alt="GitHub Stats" height="180px" src="https://github-readme-stats.vercel.app/api?username=jocimargalante&show_icons=true&theme=tokyonight&include_all_commits=true&locale=en" /> <img alt="GitHub Top Languages" height="180px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jocimargalante&theme=tokyonight&layout=compact&custom_title=Linguagens&langs_count=8" /> </p>
+<p> <img alt="GitHub Stats" height="180px" src="https://github-readme-stats.vercel.app/api?username=DeyivdManhaes&show_icons=true&theme=tokyonight&include_all_commits=true&locale=en" /> <img alt="GitHub Top Languages" height="180px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DeyvidManhaes&theme=tokyonight&layout=compact&custom_title=Linguagens&langs_count=8" /> </p>
 
 ### 📬 Entre em Contato
 <p>E-mail: deyvidmanhaes2@gmail</p>
