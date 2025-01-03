@@ -23,5 +23,5 @@ Ferramentas de Desenvolvimento
 ### 📬 Entre em Contato
 <p>E-mail: deyvidmanhaes2@gmail</p>
 
-[LinkedIn](www.linkedin.com/in/deyvid-manhaes-soares-de-souza/)
+[LinkedIn](https://www.linkedin.com/in/deyvid-manhaes-soares-de-souza/)
 
