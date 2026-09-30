@@ -87,17 +87,10 @@ Entre os projetos acadêmicos desenvolvidos, estão soluções de **Customer Chu
 ## 📊 Estatísticas do GitHub
 
 <div align="center">
-  <img
-    height="180em"
-    alt="GitHub Stats"
-    src="https://github-readme-stats.vercel.app/api?username=DeyvidManhaes&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br"
-  />
 
-<img
- height="180em"
- alt="GitHub Top Languages"
- src="https://github-readme-stats.vercel.app/api/top-langs/?username=DeyvidManhaes&theme=tokyonight&layout=compact&custom_title=Linguagens&langs_count=8&locale=pt-br"
-/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=DeyvidManhaes&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DeyvidManhaes&layout=compact&theme=tokyonight&langs_count=8"/>
 
 </div>
 
