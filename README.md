@@ -90,7 +90,7 @@ Entre os projetos acadêmicos desenvolvidos, estão soluções de **Customer Chu
 
 <img height="180em" src="https://github-readme-stats.vercel.app/api?username=DeyvidManhaes&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DeyvidManhaes&layout=compact&theme=tokyonight&langs_count=8"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DeyvidManhaes&layout=compact&theme=tokyonight&langs_count=20&size_weight=0.5&count_weight=0.5&cache_seconds=86400"/>
 
 </div>
 
