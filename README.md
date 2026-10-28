@@ -1,8 +1,8 @@
-# 👨‍💻 Deyvid Souza
+# 👨‍💻 Deyvid Manhães
 
 **`Full-Stack Developer | Machine Learning Engineering`**
 
-Olá! Sou Deyvid Souza, graduado em **Sistemas de Informação pela FeMASS** e atualmente pós-graduando em **Machine Learning Engineering pela FIAP**.
+Olá! Sou Deyvid Manhães, graduado em **Sistemas de Informação pela FeMASS** e atualmente pós-graduando em **Machine Learning Engineering pela FIAP**.
 
 Minha trajetória profissional começou na área de operações e suporte técnico, e atualmente estou direcionando minha carreira para o desenvolvimento de software e Machine Learning. Tenho experiência prática em projetos acadêmicos e pessoais utilizando **Java, Spring Boot, React, PostgreSQL, Python e tecnologias relacionadas a desenvolvimento e ML**.
 
